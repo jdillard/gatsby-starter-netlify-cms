@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: A New Blog Post
 date: 2018-11-01T04:45:43.955Z
-description: 'A description. Not too long, not too short. OK, a little short.'
+description: 'A description. Not too long, not too short. OK, its a little short.'
 tags:
   - tag1
   - tag2
