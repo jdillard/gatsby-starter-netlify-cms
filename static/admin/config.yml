@@ -5,6 +5,12 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+display_url: https://jolly-yalow-ac8b09.netlify.com
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
 collections:
   - name: "blog"
     label: "Blog"
